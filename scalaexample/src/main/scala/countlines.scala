@@ -1,60 +1,58 @@
 import org.apache.spark.rdd.RDD
 import org.apache.spark._
 import org.apache.spark.graphx._
-import org.apache.log4j.Logger
+import scala.collection.mutable.ListBuffer
 
 
 class graph(vertexArray: List[(Long, (Double))], edgesArray: List[org.apache.spark.graphx.Edge[Int]]){
   val vertices = vertexArray
   val edges = edgesArray
 
-  def print_vertices(){
-     println("The vertices are:")
-     vertices.foreach(println)
-  }
-
-  def calcTime(s1:Long, s2:Long): String =  { BigDecimal((s1-s2)/1e6).setScale(2, BigDecimal.RoundingMode.HALF_UP).toString }
-  val vprog = { (id: VertexId, attr: Double, msg: Double) => math.min(attr,msg) }
-  val reduceMessage = { (a: Double, b: Double) => math.min(a,b) }
-
-  val sendMessage = { (triplet: EdgeTriplet[Double, Int]) =>
-		var iter:Iterator[(VertexId, Double)] = Iterator.empty
-		val isSrcMarked = triplet.srcAttr != Double.PositiveInfinity
-		val isDstMarked = triplet.dstAttr != Double.PositiveInfinity
-		if(!(isSrcMarked && isDstMarked)){
-		   	if(isSrcMarked){
-				iter = Iterator((triplet.dstId,triplet.srcAttr+1))
-	  		}else{
-				iter = Iterator((triplet.srcId,triplet.dstAttr+1))
-	   		}
-		}
-		iter
-   	}
-
   def build_graph(sc: org.apache.spark.SparkContext){
     val vertexRDD = sc.parallelize(vertices)
     val edgeRDD   = sc.parallelize(edges)
-    val log = Logger.getLogger(getClass.getName)
-    val logPrefix = "DISTRIBUTED FOOLS:"
     val socialGraph = Graph(vertexRDD, edgeRDD)
     socialGraph.cache()
-    val numPartitions: Int = socialGraph.edges.partitions.size
-    val partitionStrategy = PartitionStrategy.fromString("EdgePartition2D")
-    val rootVertex: VertexId = socialGraph.vertices.first()._1
 
-    val initialGraph = socialGraph.partitionBy(partitionStrategy, numPartitions).mapVertices((id, attr) => if (id == rootVertex) 0.0 else Double.PositiveInfinity)
-    socialGraph.unpersist(blocking = false)
-		initialGraph.cache()
-		val initialMessage = Double.PositiveInfinity
-		val maxIterations = Int.MaxValue
-		val activeEdgeDirection = EdgeDirection.Either
+    // collecting the nieghbors of each vertex
+    val neighborCollection =
+      socialGraph.collectNeighborIds(EdgeDirection.Either).mapValues { (vid, nbrs) =>
+       val list = new ListBuffer[Long]()
+        var i = 0
+        while (i < nbrs.size) {
+          if (nbrs(i) != vid) {
+             list += nbrs(i)
+          }
+          i += 1
+        }
+        list.toList
+      }
+      /* Uncomment the below line to see the neigbors of verticies */
+      //neighborCollection.foreach(println(_))
 
-    val bfs = initialGraph.pregel(initialMessage, maxIterations, activeEdgeDirection)(vprog, sendMessage, reduceMessage)
-    initialGraph.unpersist(blocking=false)
-    val bfsStart = System.nanoTime()
-    val bfsTime = calcTime(System.nanoTime, bfsStart)
-		log.info(logPrefix +"BFS: Time: "+ bfsTime)
+      var triangle_count = 0
 
+        /* Algorithm for Triangulr Counting */
+
+        /* Loop Each Vertex , Select neighbor(one at a time) of a Vertex and Get the Neighbors of a selected Neighbor. Then Check
+        whether the Neighbors of a selected vertex are present in the Neighbor List of a Selected Neighbor. If yes, increment the counter.
+        At the nend , divide the count by 3 because If there exists a traingle between three Vertices then triangle will be calculated thrice
+        while looping through each vertex. */
+
+        neighborCollection.collect().zipWithIndex foreach { case(el, i) =>
+             el._2.zipWithIndex foreach{case(value, index)=>
+               var result = neighborCollection.filter{m => m._1 == value}
+               result.collect().zipWithIndex foreach{ case(e,i) =>
+                for (elem<- el._2.toArray){
+                  if (e._2 contains elem){
+                    triangle_count+= 1
+                  }
+                }
+               }
+             }
+         }
+
+       println("The number of triangles are "+ triangle_count/3)
   }
 
 }
