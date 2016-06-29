@@ -1,0 +1,580 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+39 items
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$1.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$2.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$4.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$5.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$6.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$main$1.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$triangular_count$1$$anonfun$apply$2$$anonfun$3.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$triangular_count$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$1.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$triangular_count$1$$anonfun$apply$2$$anonfun$apply$3.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$triangular_count$1$$anonfun$apply$2.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$triangular_count$1.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$1.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$2$$anonfun$apply$1.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$2.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$3$$anonfun$apply$2.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$3.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$1.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$10.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$11.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$2.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$3.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$4.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$5.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$6.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$7.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$8.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$9.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/countlines$.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/countlines.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/graph$$anonfun$1.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/graph$$anonfun$2.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/graph$$anonfun$3.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/graph$$anonfun$4.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/graph$$anonfun$print_vertices$1.class
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> /Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/graph.class
+binary dependencies:
+14 items
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /Users/hassaan/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /Users/hassaan/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.6.1.jar
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /Users/hassaan/.ivy2/cache/org.apache.spark/spark-graphx_2.10/jars/spark-graphx_2.10-1.6.1.jar
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /Users/hassaan/.sbt/boot/scala-2.10.5/lib/scala-library.jar
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.6.1.jar
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/.ivy2/cache/org.apache.spark/spark-graphx_2.10/jars/spark-graphx_2.10-1.6.1.jar
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> /Users/hassaan/.sbt/boot/scala-2.10.5/lib/scala-library.jar
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> /Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> /Users/hassaan/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> /Users/hassaan/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.6.1.jar
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> /Users/hassaan/.ivy2/cache/org.apache.spark/spark-graphx_2.10/jars/spark-graphx_2.10-1.6.1.jar
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> /Users/hassaan/.sbt/boot/scala-2.10.5/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+39 items
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> BFS
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> BFS$
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> BFS$$anonfun$1
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> BFS$$anonfun$2
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> BFS$$anonfun$4
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> BFS$$anonfun$5
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> BFS$$anonfun$6
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> BFS$$anonfun$main$1
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> BFS$$anonfun$triangular_count$1
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> BFS$$anonfun$triangular_count$1$$anonfun$apply$2
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> BFS$$anonfun$triangular_count$1$$anonfun$apply$2$$anonfun$3
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> BFS$$anonfun$triangular_count$1$$anonfun$apply$2$$anonfun$apply$3
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> BFS$$anonfun$triangular_count$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$1
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple$
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple$$anonfun$1
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple$$anonfun$2
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple$$anonfun$2$$anonfun$apply$1
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple$$anonfun$3
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple$$anonfun$3$$anonfun$apply$2
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple$$anonfun$main$1
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple$$anonfun$main$10
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple$$anonfun$main$11
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple$$anonfun$main$2
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple$$anonfun$main$3
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple$$anonfun$main$4
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple$$anonfun$main$5
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple$$anonfun$main$6
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple$$anonfun$main$7
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple$$anonfun$main$8
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple$$anonfun$main$9
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> countlines
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> countlines$
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> graph
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> graph$$anonfun$1
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> graph$$anonfun$2
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> graph$$anonfun$3
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> graph$$anonfun$4
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> graph$$anonfun$print_vertices$1
+used names:
+354 items
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> !=
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> &&
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> +
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> +=
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> -
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> /
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> <
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> <init>
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> ==
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> AnyRef
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> Array
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> BFS
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> BigDecimal
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> ClassTag
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> Double
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> Edge
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> EdgeDirection
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> EdgeTriplet
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> Either
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> Graph
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> HALF_UP
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> Int
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> Iterator
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> List
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> ListBuffer
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> Logger
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> Long
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> Predef
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> RDD
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> RoundingMode
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> SparkConf
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> SparkContext
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> String
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> System
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> Tuple2
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> Tuple3
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> Unit
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> VertexId
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> _1
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> _2
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> a
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> activeEdgeDirection
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> apache
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> apply
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> attr
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> b
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> bfs
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> bfsStart
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> bfsTime
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> cache
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> calcTime
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> canBuildFrom
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> collect
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> collectNeighborIds
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> collection
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> conf
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> contains
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> dstAttr
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> dstId
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> e
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> edgeArray
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> edgeRDD
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> el
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> elem
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> empty
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> filter
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> first
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> foreach
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> getClass
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> getLogger
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> getName
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> graph
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> graphToGraphOps
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> graphx
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> i
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> id
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> immutable
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> info
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> initialGraph
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> initialMessage
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> isDstMarked
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> isSrcMarked
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> iter
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> java
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> lang
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> list
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> log
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> log4j
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> longArrayOps
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> m
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> mainTime
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> mapValues
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> mapVertices
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> materializeClassTag
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> math
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> maxIterations
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> min
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> msg
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> mutable
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> nanoTime
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> nbrs
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> ne
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> neighborCollection
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> org
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> package
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> parallelize
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> pregel
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> println
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> rdd
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> reduceMessage
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> refArrayOps
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> result
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> rootVertex
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> s1
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> s2
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> sc
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> scala
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> sendMessage
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> setAppName
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> setMaster
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> setScale
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> size
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> spark
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> srcAttr
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> srcId
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> t_count
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> toArray
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> toList
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> toString
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> triangular_count
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> triplet
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> unary_!
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> unpersist
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> v
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> value
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> vertexArray
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> vertexRDD
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> vertices
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> vid
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> vprog
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> while$1
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> wrapRefArray
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> x
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> x$1
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> x$2
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> x$3
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> zipWithIndex
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> +
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> <init>
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> =:=
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> >
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> AnyRef
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Array
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> ClassTag
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Edge
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Graph
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> GraphLoader
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Int
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Long
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Predef
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> RDD
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Simple
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> SparkConf
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> SparkContext
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> String
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> StringContext
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Tuple2
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Tuple3
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> Unit
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> _1
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> _2
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> _3
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> _4
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> _5
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> age
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> apache
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> apply
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> attr
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> collect
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> collect_all
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> conf
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> cont
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> count
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> dstAttr
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> edgeArray
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> edgeListFile
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> edgeRDD
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> filter
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> foreach
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> getOrElse
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> graph
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> graph2
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> graphToGraphOps
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> graphx
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> in
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> inDegrees
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> inOpt
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> mapVertices
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> materializeClassTag
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> name
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> ne
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> newGraph
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> newGraph2
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> newGraph3
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> org
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> out
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> outDegrees
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> outOpt
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> outerJoinVertices
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> package
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> parallelize
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> println
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> rdd
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> refArrayOps
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> s
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> sc
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> scala
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> setAppName
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> spark
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> srcAttr
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> surname
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> t
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> tpEquals
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> triplet
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> triplets
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> v
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> vertex
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> vertexArray
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> vertexRDD
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> vertices
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> wrapRefArray
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> x$1
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> x$2
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> x$3
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> !=
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> &&
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> +
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> -
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> /
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> <init>
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> =:=
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> ==
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> AnyRef
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> Array
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> BigDecimal
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> ClassTag
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> Double
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> Edge
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> EdgeDirection
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> EdgeTriplet
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> Either
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> Graph
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> HALF_UP
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> Int
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> Iterator
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> List
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> Logger
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> Long
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> PartitionStrategy
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> Predef
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> RDD
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> RoundingMode
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> SparkConf
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> SparkContext
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> String
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> System
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> Tuple2
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> Unit
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> VertexId
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> _1
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> a
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> activeEdgeDirection
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> apache
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> apply
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> attr
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> b
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> bfsStart
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> bfsTime
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> build_graph
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> cache
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> calcTime
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> conf
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> countlines
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> dstAttr
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> dstId
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> edgeRDD
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> edges
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> edgesArray
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> empty
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> first
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> foreach
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> fromString
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> getClass
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> getLogger
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> getName
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> graph
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> graphToGraphOps
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> graphx
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> id
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> immutable
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> info
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> initialGraph
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> initialMessage
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> isDstMarked
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> isSrcMarked
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> iter
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> java
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> lang
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> log
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> log4j
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> logPrefix
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> mapVertices
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> materializeClassTag
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> math
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> maxIterations
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> min
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> msg
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> nanoTime
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> numPartitions
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> obj
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> org
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> package
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> parallelize
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> partitionBy
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> partitionStrategy
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> partitions
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> pregel
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> println
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> rdd
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> reduceMessage
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> refArrayOps
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> rootVertex
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> s1
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> s2
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> sc
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> scala
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> sendMessage
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> setAppName
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> setScale
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> size
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> socialGraph
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> spark
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> srcAttr
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> srcId
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> toString
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> tpEquals
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> triplet
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> unary_!
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> unpersist
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> vertex
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> vertexArray
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> vertexRDD
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> vertices
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> vprog
+product stamps:
+39 items
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$1.class -> lastModified(1467224288000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$2.class -> lastModified(1467224288000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$4.class -> lastModified(1467224288000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$5.class -> lastModified(1467224288000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$6.class -> lastModified(1467224288000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$main$1.class -> lastModified(1467224288000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$triangular_count$1$$anonfun$apply$2$$anonfun$3.class -> lastModified(1467224288000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$triangular_count$1$$anonfun$apply$2$$anonfun$apply$3$$anonfun$apply$1.class -> lastModified(1467224288000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$triangular_count$1$$anonfun$apply$2$$anonfun$apply$3.class -> lastModified(1467224288000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$triangular_count$1$$anonfun$apply$2.class -> lastModified(1467224288000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$$anonfun$triangular_count$1.class -> lastModified(1467224288000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS$.class -> lastModified(1467224288000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/BFS.class -> lastModified(1467224288000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$1.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$2$$anonfun$apply$1.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$2.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$3$$anonfun$apply$2.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$3.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$1.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$10.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$11.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$2.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$3.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$4.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$5.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$6.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$7.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$8.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$$anonfun$main$9.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple$.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/Simple.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/countlines$.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/countlines.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/graph$$anonfun$1.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/graph$$anonfun$2.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/graph$$anonfun$3.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/graph$$anonfun$4.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/graph$$anonfun$print_vertices$1.class -> lastModified(1467145109000)
+/Users/hassaan/DistrAlgo/scalaexample/target/scala-2.10/classes/graph.class -> lastModified(1467145109000)
+source stamps:
+3 items
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> hash(c343d11a98a063e4363339c2576de9fe4a5b929c)
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> hash(4ea044d7c154fa6eccd06012e6be515de25a6597)
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> hash(47f0a0af84d45f82104994101efcb8a4c0c3fd12)
+binary stamps:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1428691662000)
+/Users/hassaan/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar -> lastModified(1338025419000)
+/Users/hassaan/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.6.1.jar -> lastModified(1457578210000)
+/Users/hassaan/.ivy2/cache/org.apache.spark/spark-graphx_2.10/jars/spark-graphx_2.10-1.6.1.jar -> lastModified(1457652689000)
+/Users/hassaan/.sbt/boot/scala-2.10.5/lib/scala-library.jar -> lastModified(1425002040000)
+class names:
+5 items
+/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/hassaan/.ivy2/cache/log4j/log4j/bundles/log4j-1.2.17.jar -> org.apache.log4j.Logger
+/Users/hassaan/.ivy2/cache/org.apache.spark/spark-core_2.10/jars/spark-core_2.10-1.6.1.jar -> org.apache.spark.rdd.RDD
+/Users/hassaan/.ivy2/cache/org.apache.spark/spark-graphx_2.10/jars/spark-graphx_2.10-1.6.1.jar -> org.apache.spark.graphx.GraphOps
+/Users/hassaan/.sbt/boot/scala-2.10.5/lib/scala-library.jar -> scala.collection.immutable.List$
+internal apis:
+3 items
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBvAXIVAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHIiig10AAZub3RpZnlzcQB+AAxxCGkGdAAQdHJpYW5ndWxhcl9jb3VudHNxAH4ADP4rQD10AAV2cHJvZ3NxAH4ADFc0+8d0AAR3YWl0c3EAfgAMUGLIJXQADSRhc0luc3RhbmNlT2ZzcQB+AAx3JKrDdAALc2VuZE1lc3NhZ2VzcQB+AAxiUqtFdAAGZXF1YWxzc3EAfgAMqMoGcXQADGFzSW5zdGFuY2VPZnNxAH4ADCyB41h0AAxzeW5jaHJvbml6ZWRzcQB+AAwBcGd0dAANJGlzSW5zdGFuY2VPZnNxAH4ADDX0NWB0AARtYWluc3EAfgAMSbMayXQACW5vdGlmeUFsbHNxAH4ADD6XG/J0AAxpc0luc3RhbmNlT2ZzcQB+AAzgkvIFdAANcmVkdWNlTWVzc2FnZXNxAH4ADOTk2wp0AAI9PXNxAH4ADAPl6hh0AAVjbG9uZXNxAH4ADPPJIth0AAhjYWxjVGltZXNxAH4ADHVILix0AAh0b1N0cmluZ3NxAH4ADFOOCtN0AAIhPXNxAH4ADEAfsZ90AAhnZXRDbGFzc3NxAH4ADLF6jDR0AANCRlNzcQB+AAxN+ih4dAACbmVzcQB+AAz9R9YrdAACZXFzcQB+AAyDX2UCdAACIyNzcQB+AAxM29fwdAAIZmluYWxpemVzcQB+AAxSU9IrdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBLeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ADd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AGIBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AaXNxAH4AYgF1cQB+AEYAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AExxAH4AVXVxAH4AVgAAAABzcQB+AFgAcQB+ACN1cQB+AFoAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIR1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBxeHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBddAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgB4WwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBoc3EAfgB3dAAFQXJyYXlxAH4AfXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgB3dAAGU3RyaW5nc3EAfgB7c3EAfgB+dXEAfgCBAAAAA3NxAH4Ag3QABGphdmFzcQB+AIN0AARsYW5ncQB+AIhwc3EAfgBiAXVxAH4ARgAAAABwc3EAfgBiAXVxAH4AnAAAAAJzcQB+AHd0AAZPYmplY3RxAH4AoHNxAH4Ad3QAA0FueXEAfgB9cHB1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVZ1h3dl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA/L1VzZXJzL2hhc3NhYW4vRGlzdHJBbGdvL3NjYWxhZXhhbXBsZS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUw0PRGpigY+Q2MznCV23p/kpbkpw=
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHARJ11UAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHF3skV0AAZub3RpZnlzcQB+AAxQTH7qdAAEd2FpdHNxAH4ADEtM5VV0AA0kYXNJbnN0YW5jZU9mc3EAfgAMILeX+3QABmVxdWFsc3NxAH4ADGJ0OmB0AAxhc0luc3RhbmNlT2ZzcQB+AAyKgloldAAMc3luY2hyb25pemVkc3EAfgAMHrTF8HQADSRpc0luc3RhbmNlT2ZzcQB+AAwY4r0/dAAGU2ltcGxlc3EAfgAMTOLi2HQABG1haW5zcQB+AAz2jVrJdAAJbm90aWZ5QWxsc3EAfgAMPAc0uXQADGlzSW5zdGFuY2VPZnNxAH4ADKYxrIZ0AAI9PXNxAH4ADOO9My90AAVjbG9uZXNxAH4ADKrXwPR0AAh0b1N0cmluZ3NxAH4ADNwoZzp0AAIhPXNxAH4ADOGlpIB0AAhnZXRDbGFzc3NxAH4ADPQ+4CZ0AAJuZXNxAH4ADNXmoRV0AAJlcXNxAH4ADLiJuwh0AAIjI3NxAH4ADLliP8d0AAhmaW5hbGl6ZXNxAH4ADLxdx4d0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AHXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFl4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFgAcHNxAH4AXXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AGFzcQB+AFgAcHNxAH4AXXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBgdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGt4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHJbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGBzcQB+AHF0AAVBcnJheXEAfgB3dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHF0AAZTdHJpbmdzcQB+AHVzcQB+AHh1cQB+AHsAAAADc3EAfgB9dAAEamF2YXNxAH4AfXQABGxhbmdxAH4AgnNxAH4AWABwc3EAfgBddXEAfgA8AAAAAHNxAH4AWABwc3EAfgBddXEAfgCWAAAAAnNxAH4AcXQABk9iamVjdHEAfgCac3EAfgBxdAADQW55cQB+AHd1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVZipq6F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA/L1VzZXJzL2hhc3NhYW4vRGlzdHJBbGdvL3NjYWxhZXhhbXBsZS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUTqBE18FU+m7M0GAS5r5RXeJaZZc=
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCIUNiLAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAH3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKab7op0AAZub3RpZnlzcQB+AAzVH8GUdAAFdnByb2dzcQB+AAw10Z+ldAAEd2FpdHNxAH4ADOxLBLR0AA0kYXNJbnN0YW5jZU9mc3EAfgAMCdFhxHQAC3NlbmRNZXNzYWdlc3EAfgAMhk+DyHQABmVxdWFsc3NxAH4ADK/Bxvl0AAxhc0luc3RhbmNlT2ZzcQB+AAyOobx7dAAMc3luY2hyb25pemVkc3EAfgAMpHg6OHQADSRpc0luc3RhbmNlT2ZzcQB+AAzFiAY5dAAEbWFpbnNxAH4ADM8V6n90AAlub3RpZnlBbGxzcQB+AAxxOZUndAAMaXNJbnN0YW5jZU9mc3EAfgAMtnAON3QABjxpbml0PnNxAH4ADH59aS50AA1yZWR1Y2VNZXNzYWdlc3EAfgAMNa036nQAAj09c3EAfgAM09whanQABWNsb25lc3EAfgAMbAIHqnQAC2J1aWxkX2dyYXBoc3EAfgAMjJaBmHQACGNhbGNUaW1lc3EAfgAMLU/xZHQACmNvdW50bGluZXNzcQB+AAxjzERedAAOcHJpbnRfdmVydGljZXNzcQB+AAyvgYJtdAAIdG9TdHJpbmdzcQB+AAxZzJTgdAAFZ3JhcGhzcQB+AAxgMWtxdAACIT1zcQB+AAwoh19KdAAFZWRnZXNzcQB+AAwP7uxZdAAIZ2V0Q2xhc3NzcQB+AAxtAqcwdAACbmVzcQB+AAwNJMmvdAACZXFzcQB+AAz361QadAACIyNzcQB+AAyU46wOdAAIZmluYWxpemVzcQB+AAzilyrUdAAIaGFzaENvZGVzcQB+AAxbYLa1dAAIdmVydGljZXNzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ADl1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AG14cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGwAcHNxAH4AcXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBVTAAJaW5oZXJpdGVkcQB+AFVMAAdwYXJlbnRzcQB+AFV4cQB+AHVzcQB+AGwAcHNxAH4AcXVxAH4AUAAAAABzcQB+AGwAcHNxAH4AcXVxAH4AUAAAAABzcQB+AGwAcHNxAH4AcXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AdHQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AdHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4AkXQABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AknNxAH4AhXQAA0FueXNxAH4AiXNxAH4AjHVxAH4AjwAAAAJzcQB+AJF0AAVzY2FsYXEAfgCYc3EAfgBScQB+AF91cQB+AGAAAAAAc3EAfgBiAHEAfgAzdXEAfgBkAAAAAH5xAH4AZnQABk1vZHVsZXVxAH4AagAAAABzcQB+AGwAcHNxAH4AcXEAfgB2c3EAfgBsAHBzcQB+AHFzcQB+AHlzcQB+AGwAcHNxAH4AcXVxAH4AUAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AVnEAfgBfdXEAfgBgAAAAAHNxAH4AYgBxAH4AIXVxAH4AZAAAAABzcQB+AIV0AARVbml0c3EAfgCJc3EAfgCMdXEAfgCPAAAAAnNxAH4AkXEAfgCfcQB+AJh1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgCweHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBndAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCGWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgB0c3EAfgCFdAAFQXJyYXlxAH4AuHVxAH4AgwAAAAFzcQB+AIV0AAZTdHJpbmdzcQB+AIlzcQB+AIx1cQB+AI8AAAADc3EAfgCRcQB+AJRzcQB+AJFxAH4AlnEAfgCYc3EAfgBsAHBzcQB+AHF1cQB+AFAAAAAAc3EAfgBsAHBzcQB+AHF1cQB+AIMAAAACc3EAfgCFcQB+AIhxAH4A0nNxAH4AhXEAfgCacQB+ALh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVZipq6F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA/L1VzZXJzL2hhc3NhYW4vRGlzdHJBbGdvL3NjYWxhZXhhbXBsZS90YXJnZXQvc2NhbGEtMi4xMC9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUR/Cgr4TUX4IQSZQQHvy4pMDD/RI=
+external apis:
+0 items
+source infos:
+3 items
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/BFS.scala -> 
+AAAAAAAAAAA=
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/Simple.scala -> 
+AAAAAAAAAAA=
+/Users/hassaan/DistrAlgo/scalaexample/src/main/scala/countlines.scala -> 
+AAAAAAAAAAA=
+compilations:
+10 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVZipq6F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9oYXNzYWFuL0Rpc3RyQWxnby9zY2FsYWV4YW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVZ1O/Yh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9oYXNzYWFuL0Rpc3RyQWxnby9zY2FsYWV4YW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVZ1Qs+l1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9oYXNzYWFuL0Rpc3RyQWxnby9zY2FsYWV4YW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVZ1UFJ91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9oYXNzYWFuL0Rpc3RyQWxnby9zY2FsYWV4YW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVZ1ZHe51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9oYXNzYWFuL0Rpc3RyQWxnby9zY2FsYWV4YW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVZ1aLel1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9oYXNzYWFuL0Rpc3RyQWxnby9zY2FsYWV4YW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVZ1bNAN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9oYXNzYWFuL0Rpc3RyQWxnby9zY2FsYWV4YW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVZ1cL3J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9oYXNzYWFuL0Rpc3RyQWxnby9zY2FsYWV4YW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVZ1coLF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9oYXNzYWFuL0Rpc3RyQWxnby9zY2FsYWV4YW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
+9 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABVZ1h3dl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPy9Vc2Vycy9oYXNzYWFuL0Rpc3RyQWxnby9zY2FsYWV4YW1wbGUvdGFyZ2V0L3NjYWxhLTIuMTAvY2xhc3Nlc3QAAS8=
