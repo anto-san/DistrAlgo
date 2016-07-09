@@ -8,7 +8,7 @@ import scala.collection.mutable.ListBuffer
 
 
 
-object BFS {
+object ConnectedComponent {
 
 	def main(args: Array[String]) {
 
