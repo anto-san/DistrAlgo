@@ -47,7 +47,7 @@ object BFS_cc {
 
 		// set Spark configuration and context
 		val conf = new SparkConf()
-		conf.setAppName("BFS_cc")
+		conf.setAppName("SimpleName")
 		//conf.setMaster("local[*]")
 		val sc = new SparkContext(conf)
 
@@ -86,10 +86,10 @@ object BFS_cc {
 		  )	
 		val vertexRDD: RDD[(Long, (String, String, Int))] = sc.parallelize(vertexArray)
 		val edgeRDD: RDD[Edge[Int]] = sc.parallelize(edgeArray)
-		//val graph: Graph[(String, String, Int), Int] = Graph(vertexRDD, edgeRDD)
-		val graph = GraphLoader.edgeListFile(sc,"p2p-Gnutella08.txt")
+		val graph: Graph[(String, String, Int), Int] = Graph(vertexRDD, edgeRDD)
+		/*val graph = GraphLoader.edgeListFile(sc,"p2p-Gnutella08.txt")*/
 		graph.cache()
-		println("Graph loading time: " + calcTime(System.nanoTime, mainTime) + " milliseconds.")
+		log.info("Graph loading time: " + calcTime(System.nanoTime, mainTime) + " milliseconds.")
 
 		// define the Root vertex from which start BFS and initialize vertices' markings as visited or unvisited
 		// (notice that, using mapvertices, the attr of every vertex is mapped to a new value depending on the id)
@@ -143,8 +143,8 @@ object BFS_cc {
 		bfs.unpersist(blocking = false)
 
 		// print results
-		val bfsTime = calcTime(System.nanoTime, bfsStart)
-		println("BFS execution time: "+ bfsTime + " milliseconds")
+		//val bfsTime = calcTime(System.nanoTime, bfsStart)
+		//log.info("BFS execution time: "+ bfsTime + " milliseconds")
 		println("Computation is over. There are " + connectedCounter + " connected components!")
 	
 
