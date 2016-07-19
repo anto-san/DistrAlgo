@@ -1,5 +1,6 @@
 import org.apache.spark._
 import org.apache.spark.graphx._
+import org.apache.spark.storage.StorageLevel
 import org.apache.spark.rdd.RDD
 import org.apache.log4j.Logger
 import scala.collection.mutable.ListBuffer
@@ -12,7 +13,7 @@ object BFS {
 	}
 	/* Triangular Countig */
 
-	def triangular_count(graph:Graph[(String, String, Int), Int]){
+	def triangular_count(graph:Graph[Int,Int]){
 		var t_count = 0
 		// collecting the nieghbors of each vertex
 		val neighborCollection =
@@ -38,13 +39,14 @@ object BFS {
 					result.collect().zipWithIndex foreach{ case(e,i) =>
 						for (elem<- el._2.toArray){
 							if (e._2 contains elem){
+								println("Counted Trianlge")
 								t_count+= 1
 							}
 						}
 					}
 				}
 			}
-			println("The number of triangles are "+ t_count/3)
+			println("The number of triangles are "+ t_count/6)
 		}
 		/* PREGEL - function applied to multiple incoming messages arriving to the same vertex, used before applying vprog */
 		val reduceMessage = {
@@ -81,35 +83,38 @@ object BFS {
 		val conf = new SparkConf()
 		conf.setAppName("SimpleName")
 		conf.setMaster("local[*]")
+		conf.set("spark.executor.memory", "3g")
 		val sc = new SparkContext(conf)
 
 		// record starting time and define logger
 		val mainTime = System.nanoTime()
 		val log = Logger.getLogger(getClass.getName)
-
-		// define a graph and cache it
-		val vertexArray = Array(
-			(1L, ("Alice", "Kensington", 28)),
-			(2L, ("Bob", "Kensington", 27)),
-			(3L, ("Charlie", "Hebdo", 65)),
-			(4L, ("David", "Hebdo", 42)),
-			(5L, ("Ed", "Guerrero", 55)),
-			(6L, ("Fran", "Souvignon", 50))
-		)
-		val edgeArray = Array(
-			Edge(2L, 1L, 7),
-			Edge(2L, 4L, 2),
-			Edge(3L, 2L, 4),
-			Edge(3L, 6L, 3),
-			Edge(4L, 1L, 1),
-			Edge(5L, 2L, 2),
-			Edge(5L, 3L, 8),
-			Edge(5L, 6L, 3)
-		)
-		val vertexRDD: RDD[(Long, (String, String, Int))] = sc.parallelize(vertexArray)
-		val edgeRDD: RDD[Edge[Int]] = sc.parallelize(edgeArray)
-		val graph: Graph[(String, String, Int), Int] = Graph(vertexRDD, edgeRDD)
-		/*val graph = GraphLoader.edgeListFile(sc,"p2p-Gnutella08.txt")*/
+		 var t_count = 0
+		//
+		// // define a graph and cache it
+		// val vertexArray = Array(
+		// 	(1L, ("Alice", "Kensington", 28)),
+		// 	(2L, ("Bob", "Kensington", 27)),
+		// 	(3L, ("Charlie", "Hebdo", 65)),
+		// 	(4L, ("David", "Hebdo", 42)),
+		// 	(5L, ("Ed", "Guerrero", 55)),
+		// 	(6L, ("Fran", "Souvignon", 50))
+		// )
+		// val edgeArray = Array(
+		// 	Edge(2L, 1L, 7),
+		// 	Edge(2L, 4L, 2),
+		// 	Edge(3L, 2L, 4),
+		// 	Edge(3L, 6L, 3),
+		// 	Edge(4L, 1L, 1),
+		// 	Edge(5L, 2L, 2),
+		// 	Edge(5L, 3L, 8),
+		// 	Edge(5L, 6L, 3)
+		// )
+		//  val vertexRDD: RDD[(Long, (String, String, Int))] = sc.parallelize(vertexArray)
+		//  val edgeRDD: RDD[Edge[Int]] = sc.parallelize(edgeArray)
+		//  val graph: Graph[(String, String, Int), Int] = Graph(vertexRDD, edgeRDD)
+		//val graph = GraphLoader.edgeListFile(sc,"p2p-Gnutella08.txt",true,edgeStorageLevel = StorageLevel.MEMORY_AND_DISK,vertexStorageLevel=StorageLevel.MEMORY_AND_DISK)
+		val graph = GraphLoader.edgeListFile(sc, "p2p-Gnutella08.txt", true)
 		graph.cache()
 		log.info("Graph loading time: " + calcTime(System.nanoTime, mainTime) + " milliseconds.")
 
@@ -123,17 +128,17 @@ object BFS {
 
 		// Pregel stuff
 		// EdgeDirection.Either means that messages will be sent on the edge if any vertex of the triplet received some message
-		val initialMessage = Double.PositiveInfinity
-		val maxIterations = Int.MaxValue
-		val activeEdgeDirection = EdgeDirection.Either
-		val bfsStart = System.nanoTime()
-		val bfs = initialGraph.pregel(initialMessage, maxIterations, activeEdgeDirection)(vprog, sendMessage, reduceMessage)
-
-		// print results
-		val bfsTime = calcTime(System.nanoTime, bfsStart)
-		log.info("BFS execution time: "+ bfsTime + " milliseconds")
-		bfs.vertices.collect.foreach(v => println(v))
-		triangular_count(graph:Graph[(String, String, Int), Int])
+		// val initialMessage = Double.PositiveInfinity
+		// val maxIterations = Int.MaxValue
+		// val activeEdgeDirection = EdgeDirection.Either
+		// val bfsStart = System.nanoTime()
+		// val bfs = initialGraph.pregel(initialMessage, maxIterations, activeEdgeDirection)(vprog, sendMessage, reduceMessage)
+		//
+		// // print results
+		// val bfsTime = calcTime(System.nanoTime, bfsStart)
+		// log.info("BFS execution time: "+ bfsTime + " milliseconds")
+		// bfs.vertices.collect.foreach(v => println(v))
+		triangular_count(graph:Graph[Int,Int])
 
 	}
 }
